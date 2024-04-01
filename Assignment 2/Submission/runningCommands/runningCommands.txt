@@ -1,0 +1,6 @@
+g++ -g pass1.cpp
+./a.exe 
+g++ -g pass2.cpp
+./a.exe
+g++ -g linkerLoader.cpp
+./a.exe 
