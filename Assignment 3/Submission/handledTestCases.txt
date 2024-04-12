@@ -1,0 +1,10 @@
+These are edge test cases implemented :- 
+
+1. Empty file.
+2. END without a BEGIN.
+3. BEGIN without an END.
+4. Program end should be present(END.).
+5. No code can be written after the end of the program(END.).
+6. Identifiers can't be inserted into the hash table after the first BEGIN statement.
+7. Underscore at the beginning of the variables is an error, underscore in any other position is allowed.
+8. '@0' type numbers, for example, in the input file is an invalid token.
